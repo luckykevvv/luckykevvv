@@ -14,7 +14,7 @@
 - Language using: Java
 - JDK: 1.8
 2. **project**
-* repositories : [battlecode-2022](https://github.com/Hacker233/navigation)
+* repositories : [battlecode-2022](https://github.com/luckykevvv/battlecode-2022)
 3. **compitition website**
 * (https://battlecode.org/)
 
