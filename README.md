@@ -2,7 +2,7 @@
 
 ### Hello, I am Jiawen
 
-![](https://visitor-badge.glitch.me/badge?page_id=luckykevvv.readme)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taohao11134&theme=default)
 
 - :smile:  Email : (luckykevvv@gmail.com)
 - :blowfish:  BiliBili : [C3EZ](https://space.bilibili.com/285705387)
