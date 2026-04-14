@@ -1,5 +1,5 @@
-<h1 align="center">✨ Hello, I am Jiawen ✨</h1>
-
+<h1 align="center">✨ Hello, I am 卢嘉文 (Jiawen Lu)✨</h1>
+<h1 align="center">AKA Kevin</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Computer+Science+Student+at+Monash+University;Python+%7C+Java+%7C+AI+Explorer;Anime+Soul+in+a+Programmer+Shell;Building+cool+things+with+chaotic+energy+%E2%9C%A8" alt="Typing SVG" />
 </p>
