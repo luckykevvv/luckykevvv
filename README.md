@@ -42,7 +42,7 @@ current_status: "Turning chaotic ideas into working code"
 ## ⚔️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,git,github,linux,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,docker" />
 </p>
 
 ## 📊 GitHub Stats
@@ -56,12 +56,6 @@ current_status: "Turning chaotic ideas into working code"
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luckykevvv&theme=tokyonight" />
 </p>
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luckykevvv&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 ## 🌌 Current Vibe
 
 <p align="center">
@@ -69,5 +63,5 @@ current_status: "Turning chaotic ideas into working code"
 </p>
 
 <p align="center">
-  <i>"Code. Create. Iterate. Repeat."</i>
+  <i>"Per Aspera Ad Astra."</i>
 </p>
