@@ -38,6 +38,7 @@ current_status: "Turning chaotic ideas into working code"
 
 - **Email**: [luckykevvv@gmail.com](mailto:luckykevvv@gmail.com)
 - **BiliBili**: [C3EZ](https://space.bilibili.com/285705387)
+- **📝Personal Blog**: [Blog](https://blog.chihaya-anon.uk/)
 
 ## ⚔️ Tech Stack
 
